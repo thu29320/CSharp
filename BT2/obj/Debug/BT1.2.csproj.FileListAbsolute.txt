@@ -1,0 +1,6 @@
+F:\CSharp\CShap\BT2\bin\Debug\BT2.exe.config
+F:\CSharp\CShap\BT2\bin\Debug\BT2.exe
+F:\CSharp\CShap\BT2\bin\Debug\BT2.pdb
+F:\CSharp\CShap\BT2\obj\Debug\BT1.2.csproj.CoreCompileInputs.cache
+F:\CSharp\CShap\BT2\obj\Debug\BT2.exe
+F:\CSharp\CShap\BT2\obj\Debug\BT2.pdb

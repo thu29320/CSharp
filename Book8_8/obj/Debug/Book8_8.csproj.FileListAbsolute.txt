@@ -1,0 +1,6 @@
+F:\CSharp\CShap\Book8_8\bin\Debug\Book8_8.exe.config
+F:\CSharp\CShap\Book8_8\bin\Debug\Book8_8.exe
+F:\CSharp\CShap\Book8_8\bin\Debug\Book8_8.pdb
+F:\CSharp\CShap\Book8_8\obj\Debug\Book8_8.csproj.CoreCompileInputs.cache
+F:\CSharp\CShap\Book8_8\obj\Debug\Book8_8.exe
+F:\CSharp\CShap\Book8_8\obj\Debug\Book8_8.pdb

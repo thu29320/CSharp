@@ -1,0 +1,6 @@
+F:\CSharp\CShap\BT1.3\bin\Debug\BT1.3.exe.config
+F:\CSharp\CShap\BT1.3\bin\Debug\BT1.3.exe
+F:\CSharp\CShap\BT1.3\bin\Debug\BT1.3.pdb
+F:\CSharp\CShap\BT1.3\obj\Debug\BT1.3.csproj.CoreCompileInputs.cache
+F:\CSharp\CShap\BT1.3\obj\Debug\BT1.3.exe
+F:\CSharp\CShap\BT1.3\obj\Debug\BT1.3.pdb

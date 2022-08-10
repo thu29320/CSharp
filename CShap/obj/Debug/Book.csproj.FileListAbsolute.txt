@@ -1,0 +1,7 @@
+F:\CSharp\CShap\CShap\bin\Debug\CShap.exe.config
+F:\CSharp\CShap\CShap\bin\Debug\CShap.exe
+F:\CSharp\CShap\CShap\bin\Debug\CShap.pdb
+F:\CSharp\CShap\CShap\obj\Debug\Book.csproj.AssemblyReference.cache
+F:\CSharp\CShap\CShap\obj\Debug\Book.csproj.CoreCompileInputs.cache
+F:\CSharp\CShap\CShap\obj\Debug\CShap.exe
+F:\CSharp\CShap\CShap\obj\Debug\CShap.pdb

@@ -1,0 +1,7 @@
+F:\CSharp\CShap\Class_ToaDo\bin\Debug\Class_ToaDo.exe.config
+F:\CSharp\CShap\Class_ToaDo\bin\Debug\Class_ToaDo.exe
+F:\CSharp\CShap\Class_ToaDo\bin\Debug\Class_ToaDo.pdb
+F:\CSharp\CShap\Class_ToaDo\obj\Debug\Class_ToaDo.csproj.AssemblyReference.cache
+F:\CSharp\CShap\Class_ToaDo\obj\Debug\Class_ToaDo.csproj.CoreCompileInputs.cache
+F:\CSharp\CShap\Class_ToaDo\obj\Debug\Class_ToaDo.exe
+F:\CSharp\CShap\Class_ToaDo\obj\Debug\Class_ToaDo.pdb

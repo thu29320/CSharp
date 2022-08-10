@@ -1,0 +1,7 @@
+F:\CSharp\CShap\BT1\bin\Debug\BT1.exe.config
+F:\CSharp\CShap\BT1\bin\Debug\BT1.exe
+F:\CSharp\CShap\BT1\bin\Debug\BT1.pdb
+F:\CSharp\CShap\BT1\obj\Debug\BT1.csproj.AssemblyReference.cache
+F:\CSharp\CShap\BT1\obj\Debug\BT1.csproj.CoreCompileInputs.cache
+F:\CSharp\CShap\BT1\obj\Debug\BT1.exe
+F:\CSharp\CShap\BT1\obj\Debug\BT1.pdb
